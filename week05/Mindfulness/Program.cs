@@ -1,5 +1,5 @@
-// First, I made it so in the ListingActivity, when a blank line is entered, it will not be added to the List.
-// Then I 
+// First, I made it so in the ListingActivity, when a blank line is entered, it will not be added to the list.
+// Then I added a countdown to the ListingActivity, so that you are informed how much time is left after each time you submit an item.
 
 using System;
 using System.ComponentModel.DataAnnotations;

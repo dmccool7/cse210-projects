@@ -1,0 +1,5 @@
+390
+10
+SimpleGoal,Exercise Today,Excercise for at least 90 minutes.,50,True
+EternalGoal,Read BOM,Study for at least 20 minutes.,10
+ChecklistGoal,Call Gold Level Customers,Call to ask for feedback and then ask for referrals.,10,500,10,6
